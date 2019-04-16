@@ -1,0 +1,1 @@
+another file inthe same dir as the ignored one
