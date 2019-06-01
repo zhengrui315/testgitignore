@@ -4,3 +4,4 @@ make some changes here
 
 make 2nd change here
 check merge commit log
+change in master
