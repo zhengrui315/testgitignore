@@ -7,3 +7,5 @@ check merge commit log
 change in master
 
 check rebase
+
+make a clean log graph
